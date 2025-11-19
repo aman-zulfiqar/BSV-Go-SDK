@@ -208,5 +208,3 @@ func main() {
 	fmt.Println("   7. ✅ Secure mnemonic sharding")
 	fmt.Println("   8. ✅ Comprehensive error handling")
 }
-
-
